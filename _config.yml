@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Dong-Sheng Wang"
   avatar           : "profile.png"
-  bio              : "I am a loyal researcher of quantum physics, and quantum metaphysics."
+  bio              : "I am a researcher of quantum physics, and quantum metaphysics."
   location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            : "https://www.weibo.com/login.php"
+  weibo            : "https://www.weibo.com"
   xing             :
   youtube          :
   wikipedia        :
