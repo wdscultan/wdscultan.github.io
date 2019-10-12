@@ -50,7 +50,7 @@ en-AU:
   
 # chinese
 # -----------------
-en: &DEFAULT_EN
+ch: &DEFAULT_CH
   page                       : "页面"
   pagination_previous        : "上一页"
   pagination_next            : "下一页"
