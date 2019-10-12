@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-[GitHub pages](https://pages.github.com) 
 
-
-A data-driven personal website
+Research Area
 ======
-Like , the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. Quantum Computation 
+1. Quantum Channel
+1. \cdot Quantum Physics
 
-Many of the features you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Like , the [GitHub pages](https://pages.github.com/) service 
 
-Getting started
+Career
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
