@@ -13,14 +13,12 @@ Research Area
 ======
 1. Quantum Computation 
 Include: computing models, memory, simulation, algorithm, implementation, control, topological qubits
-
 1. Quantum Channel
 
 Include: open-system, heat engine, thermodynamics, non-Markovian dynamics
 1. Quantum Physics
 
 Include: many-body system, entanglement, quantum notions
-
 
 Career
 ======
