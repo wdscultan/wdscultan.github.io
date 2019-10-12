@@ -11,25 +11,19 @@ redirect_from:
 
 Research Area
 ======
-1. Quantum Computation 
-Include: computing models, memory, simulation, algorithm, implementation, control, topological qubits
-1. Quantum Channel
-
-Include: open-system, heat engine, thermodynamics, non-Markovian dynamics
-1. Quantum Physics
-
-Include: many-body system, entanglement, quantum notions
+1. Quantum Computation. Include: computing models, simulation, algorithm, implementation, control, topological qubits
+1. Quantum Channel. Include: open-system, heat engine, thermodynamics, non-Markovian dynamics
+1. Quantum Physics. Include: many-body system, entanglement, quantum notions
 
 Career
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/), University of Waterloo, Canada. postdoc with Prof. R. Laflamme
+1. [Quantum Matter Institute](https://qmi.ubc.ca/), University of British Columbia, Canada. postdoc with Prof. R. Raussendorf, Prof. I. Affleck
+1. [Institute for Quantum Science and Technology](), University of Calgary, Canada. PhD with Prof. B. Sanders
+1. [Institute of Atomic and Molecular Physics](http://www.phy.sdu.edu.cn/info/1104/4834.htm), Shandong University, China. Master with Prof. Y. Zheng
+1. [Shandong University](http://www.en.sdu.edu.cn/), National Key Class, School of Physics, Bachelor
 
-Site-wide configuration
+More
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features.
 
