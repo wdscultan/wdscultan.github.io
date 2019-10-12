@@ -16,6 +16,12 @@ Quantum Computation.  Quantum Channel.  Quantum Physics.
 ------
 Include: computing models, simulation, algorithm, implementation, control, topological qubits, open-system, heat engine, thermodynamics, non-Markovian dynamics, many-body system, entanglement, quantum notions
 
+Highlights
+------
+Qubit channel universal simulator
+![Qubit channel universal simulator](/images/editing-talk.png), see PRL 
+
+
 Files
 ------
 1. Lecture notes of quantum theory.
