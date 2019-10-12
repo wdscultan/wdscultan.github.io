@@ -16,6 +16,11 @@ Quantum Computation.  Quantum Channel.  Quantum Physics.
 ------
 Include: computing models, simulation, algorithm, implementation, control, topological qubits, open-system, heat engine, thermodynamics, non-Markovian dynamics, many-body system, entanglement, quantum notions
 
+Files
+------
+1. Lecture notes of quantum theory.
+1. Short version of my Ph.D thesis.
+
 Career
 ======
 1. [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/), U. of Waterloo, Canada. postdoc
