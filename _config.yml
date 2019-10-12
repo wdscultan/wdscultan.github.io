@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. D.-S. Wang"
+title                    : "Nature is Quantum"
 title_separator          : "-"
 name                     : &name "D.-S. Wang"
 description              : &description "I am a researcher of quantum physics."
