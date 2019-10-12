@@ -32,6 +32,7 @@ Visit
 1. 2014 Nov. USTC Shanghai Institute for Advanced Studies, Shanghai, China
 1. 2016 Sept. Department of Physics, Free University of Berlin, Germany
 1. 2017 July. University of Electronic Science and Technology of China, Chengdu, China.
+1. 2019 May. Department of Physics, Zhejiang University, China
 
 
 Create content & metadata
@@ -51,4 +52,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More 
