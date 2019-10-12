@@ -14,6 +14,7 @@ Research Area
 1. Quantum Computation. 
 1. Quantum Channel. 
 1. Quantum Physics. 
+
 ------
 Include: computing models, simulation, algorithm, implementation, control, topological qubits, open-system, heat engine, thermodynamics, non-Markovian dynamics, many-body system, entanglement, quantum notions
 
