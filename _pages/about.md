@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The World is Quantum."
+title: "Dr. D.-S. Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,9 +11,13 @@ redirect_from:
 
 Research Area
 ======
-1. Quantum Computation. Include: computing models, simulation, algorithm, implementation, control, topological qubits
-1. Quantum Channel. Include: open-system, heat engine, thermodynamics, non-Markovian dynamics
-1. Quantum Physics. Include: many-body system, entanglement, quantum notions
+1. Quantum Computation. 
+1. Quantum Channel. 
+1. Quantum Physics. 
+
+Details
+------
+Include: computing models, simulation, algorithm, implementation, control, topological qubits, open-system, heat engine, thermodynamics, non-Markovian dynamics, many-body system, entanglement, quantum notions
 
 Career
 ======
@@ -23,9 +27,12 @@ Career
 1. [Institute of Atomic and Molecular Physics](http://www.phy.sdu.edu.cn/info/1104/4834.htm), Shandong University, China. Master with Prof. Y. Zheng
 1. [Shandong University](http://www.en.sdu.edu.cn/), National Key Class, School of Physics, Bachelor
 
-More
+Visit
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features.
+1. 2014 Nov. USTC Shanghai Institute for Advanced Studies, Shanghai, China
+1. 2016 Sept. Department of Physics, Free University of Berlin, Germany
+1. 2017 July. University of Electronic Science and Technology of China, Chengdu, China.
+
 
 Create content & metadata
 ------
