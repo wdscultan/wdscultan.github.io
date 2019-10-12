@@ -47,50 +47,55 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
-# Spanish
-# --------------
-es: &DEFAULT_ES
-  page                       : "Página"
-  pagination_previous        : "Anterior"
-  pagination_next            : "Siguiente"
-  breadcrumb_home_label      : "Inicio"
+  
+# chinese
+# -----------------
+en: &DEFAULT_EN
+  page                       : "页面"
+  pagination_previous        : "上一页"
+  pagination_next            : "下一页"
+  breadcrumb_home_label      : "首页"
   breadcrumb_separator       : "/"
-  toc_label                  : "Contenidos"
-  ext_link_label             : "Enlace"
-  less_than                  : "menos de"
-  minute_read                : "minuto de lectura"
-  share_on_label             : "Compartir"
+  toc_label                  : "当前页"
+  ext_link_label             : "链接"
+  less_than                  : "少于"
+  minute_read                : "分钟读取"
+  share_on_label             : "分享"
   meta_label                 :
-  tags_label                 : "Etiquetas:"
-  categories_label           : "Categorías:"
-  date_label                 : "Actualizado:"
-  comments_label             : "Comentar"
-  comments_title             :
-  more_label                 : "Ver más"
-  related_label              : "Podrías ver también"
-  follow_label               : "Seguir:"
+  tags_label                 : "标签:"
+  categories_label           : "分类:"
+  date_label                 : "发表:"
+  comments_label             : "留言"
+  comments_title             : "留言"
+  more_label                 : "更多"
+  related_label              : "更多有关"
+  follow_label               : "关注:"
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
-  website_label              : "Sitio web"
-  email_label                : "Email"
-  recent_posts               : "Entradas recientes"
-  undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
-  comment_form_info          :
-  comment_form_comment_label :
-  comment_form_md_info       :
-  comment_form_name_label    :
-  comment_form_email_label   :
-  comment_form_website_label :
-  comment_btn_submit         :
-  comment_btn_submitted      :
-  comment_success_msg        :
-  comment_error_msg          :
-  loading_label              :
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+  powered_by                 : "支持"
+  website_label              : "网页"
+  email_label                : "邮箱"
+  recent_posts               : "最近状态"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Your email address will not be published. Required fields are marked"
+  comment_form_comment_label : "留言"
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "姓名"
+  comment_form_email_label   : "邮箱"
+  comment_form_website_label : "Website (optional)"
+  comment_btn_submit         : "提交留言"
+  comment_btn_submitted      : "已提交"
+  comment_success_msg        : "谢谢留言！通过后会在网站上发布。"
+  comment_error_msg          : "哦哦，出错了。请重新完整填写。"
+  loading_label              : "正在加载..."
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
 
 # French
 # -----------------
