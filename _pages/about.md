@@ -43,21 +43,6 @@ Visit
 1. 2014 Nov. USTC Shanghai Institute for Advanced Studies, Shanghai, China
 
 
-Talk
-------
-For site content, 
-
 **Markdown generator**
 
-I have also created 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More 
