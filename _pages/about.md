@@ -20,10 +20,10 @@ Include: computing models, simulation, algorithm, implementation, control, topol
 
 Career
 ======
-1. [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/), U. of Waterloo, Canada. postdoc with Prof. R. Laflamme
-1. [Quantum Matter Institute](https://qmi.ubc.ca/), U. of British Columbia, Canada. postdoc with Prof. R. Raussendorf, Prof. I. Affleck
-1. [Institute for Quantum Science and Technology](https://www.iqst.ca/), U. of Calgary, Canada. PhD with Prof. B. Sanders
-1. [Institute of Atomic and Molecular Physics](http://www.phy.sdu.edu.cn/info/1104/4834.htm), Shandong U., China. Master with Prof. Y. Zheng
+1. [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/), U. of Waterloo, Canada. postdoc
+1. [Quantum Matter Institute](https://qmi.ubc.ca/), U. of British Columbia, Canada. postdoc 
+1. [Institute for Quantum Science and Technology](https://www.iqst.ca/), U. of Calgary, Canada. Ph.D
+1. [Institute of Atomic and Molecular Physics](http://www.phy.sdu.edu.cn/info/1104/4834.htm), Shandong U., China. Master
 1. [Shandong University](http://www.en.sdu.edu.cn/), National Key Class, School of Physics, Bachelor
 
 Visit
