@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quantum world"
+title: "The World is Quantum."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,10 +12,15 @@ redirect_from:
 Research Area
 ======
 1. Quantum Computation 
-1. Quantum Channel
-1. \cdot Quantum Physics
+Include: computing models, memory, simulation, algorithm, implementation, control, topological qubits
 
-Like , the [GitHub pages](https://pages.github.com/) service 
+1. Quantum Channel
+
+Include: open-system, heat engine, thermodynamics, non-Markovian dynamics
+1. Quantum Physics
+
+Include: many-body system, entanglement, quantum notions
+
 
 Career
 ======
