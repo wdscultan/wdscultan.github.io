@@ -18,14 +18,15 @@ Include: computing models, simulation, algorithm, implementation, control, topol
 
 Highlights
 ------
-Qubit channel universal simulator: only need a CNOT gate and a pbit to get arbitrary qubit noise, see PRL 
+* QC by symmetry: information processing induced by measurement, see PRL 
+
+* A topological gate by 'twist': twist symmetry-protected top order slowly to obtain a quantum gate, see PRL
+
+* Hyper-teleportation: teleportation and QC with hypergraph states, see IJMP 
+
+* Qubit channel universal simulator: only need a CNOT gate and a pbit to get arbitrary qubit noise, see PRL 
 ![Qubit channel universal simulator](/images/editing-talk.png) 
 
-Hyper-teleportation: teleportation and QC with hypergraph states, see IJMP 
-
-A topological gate by 'twist': twist symmetry-protected top order slowly to obtain a quantum gate, see PRL
-
-QC by symmetry: information processing induced by measurement, see PRL 
 
 Files
 ------
