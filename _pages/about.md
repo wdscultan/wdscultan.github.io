@@ -25,7 +25,8 @@ Highlights
 * Hyper-teleportation: teleportation and QC with hypergraph states, see IJMP 
 
 * Qubit channel universal simulator: only need a CNOT gate and a pbit to get arbitrary qubit noise, see PRL 111, 130504 (2013).
-<img src="/images/qubit_channel.png" alt="/images/qubit_channel" width="100"/>
+<img src="/images/qubit_channel.png" alt="/images/qubit_channel" width="200"/>
+
 ![Qubit channel universal simulator](/images/qubit_channel.png) 
 
 
