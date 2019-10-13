@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. D.-S. Wang"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
