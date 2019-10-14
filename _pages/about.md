@@ -26,7 +26,9 @@ Highlights
 
 <img src="/images/twist.png" alt="/images/twist" width="300"/>
 
-* QC by symmetry: information processing induced by measurement, see [PRL 119, 010504 (2017)](https://doi.org/10.1103/PhysRevLett.119.010504) 
+* QC by symmetry: information processing induced by measurement, see [PRL 119, 010504 (2017)](https://doi.org/10.1103/PhysRevLett.119.010504), [PRA 95, 032312 (2017)](https://doi.org/10.1103/PhysRevA.95.032312) 
+
+<img src="/images/mbqc.png" alt="/images/mbqc" width="300"/>
 
 * Qubit channel universal simulator: only need a CNOT gate and a pbit to get arbitrary qubit noise, see [PRL 111, 130504 (2013)](https://doi.org/10.1103/PhysRevLett.111.130504)
 
