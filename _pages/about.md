@@ -24,7 +24,7 @@ Highlights
 
 * **A topological gate by 'twist'**: twist symmetry-protected top order slowly to obtain a quantum gate, see [PRL 120, 200503 (2018)](https://doi.org/10.1103/PhysRevLett.120.200503)
 
-<img src="/images/twist.png" alt="/images/twist" width="300"/>
+<img src="/images/twist.png" alt="/images/twist" width="260"/>
 
 * **QC by symmetry**: information processing induced by measurement, see [PRL 119, 010504 (2017)](https://doi.org/10.1103/PhysRevLett.119.010504), [PRA 95, 032312 (2017)](https://doi.org/10.1103/PhysRevA.95.032312) 
 
