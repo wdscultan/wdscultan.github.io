@@ -18,7 +18,7 @@ Include: computing models, simulation, algorithm, implementation, control, topol
 
 Highlights
 ------
-* **Hyper-teleportation**: teleportation and QC with hypergraph states, see [IJMP 33, 1930004 (2019)](10.1142/S0217979219300044)
+* **Hyper-teleportation**: teleportation and QC with hypergraph states, see [IJMP 33, 1930004 (2019)](https://www.worldscientific.com/doi/10.1142/S0217979219300044)
 
 <img src="/images/hyper-teleport.png" alt="/images/hyper-teleport" width="160"/>
 
