@@ -12,9 +12,9 @@ main:
  # - title: "Teaching"
  #   url: /teaching/    
     
-  - title: "Metaphysics"
-    url: /metaphysics/
+ # - title: "Metaphysics"
+ #   url: /metaphysics/
     
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
