@@ -37,6 +37,6 @@ Highlights
 
 Files
 ------
-1. Lecture notes of quantum theory.
-1. Short version of my Ph.D thesis.
+1. Lecture notes of quantum theory
+1. Full version of my [Ph.D thesis](https://prism.ucalgary.ca/handle/11023/2466)
 1. Publications: please see [arXiv](https://arxiv.org/list/quant-ph/new)
