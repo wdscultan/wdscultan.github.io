@@ -27,5 +27,5 @@ Visit
 Service
 ------
 * As referee of PRL, PRA, NJP, etc
-* Was organizer of Workshop on “Algebraic Structures in Quantum Computation”, U. of British Columbia, Vancouver, Canada, May 2016
-* Was organizer of The 10th Annual Canadian Quantum Information Students’ Conference, U. of Calgary, Canada, June 2013
+* As organizer of Workshop on “Algebraic Structures in Quantum Computation”, U. of British Columbia, Vancouver, Canada, May 2016
+* As organizer of The 10th Annual Canadian Quantum Information Students’ Conference, U. of Calgary, Canada, June 2013
