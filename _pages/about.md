@@ -18,6 +18,10 @@ Include: universal computing models, topological qubit, quantum channel, many-bo
 
 Highlights
 ------
+* **sine-Gordon qubits**: QC with robust qubits described by sine-Gordon field theory, see [PRB 100, 024418 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.024418)
+
+<img src="/images/sGQ.png" alt="/images/sGQ" width="160"/>
+
 * **Hyper-teleportation**: teleportation and QC with hypergraph states, see [IJMP 33, 1930004 (2019)](https://www.worldscientific.com/doi/10.1142/S0217979219300044)
 
 <img src="/images/hyper-teleport.png" alt="/images/hyper-teleport" width="160"/>
