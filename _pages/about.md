@@ -18,6 +18,10 @@ Include: universal computing models, topological qubit, quantum channel, many-bo
 
 Highlights
 ------
+* **Local quantum Turing machines**: A fundamental relation of quantum physics & computer science: matrix-product states = quantum Turing machines, see [QIC 20, 0213 (2020)](http://www.rintonpress.com/xxqic20/qic-20-34/0213-0229.pdf)
+
+<img src="/images/TM.png" alt="/images/TM" width="160"/>
+
 * **sine-Gordon qubits**: QC with robust qubits described by sine-Gordon field theory, see [PRB 100, 024418 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.024418)
 
 <img src="/images/sGQ.png" alt="/images/sGQ" width="160"/>
