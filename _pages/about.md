@@ -18,6 +18,10 @@ Include: universal computing models, topological qubit, quantum channel, many-bo
 
 Highlights
 ------
+* **Quasi Codes**: Towards new quantum error-correction codes & computing with them, see [PRR 2, 033116 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033116)
+
+<img src="/images/gate-cell.jpg" alt="/images/gate-cell" width="180"/>
+
 * **Local quantum Turing machines**: A fundamental relation of quantum physics & computer science: matrix-product states = quantum Turing machines, see [QIC 20, 0213 (2020)](http://www.rintonpress.com/xxqic20/qic-20-34/0213-0229.pdf)
 
 <img src="/images/TM.png" alt="/images/TM" width="180"/>
