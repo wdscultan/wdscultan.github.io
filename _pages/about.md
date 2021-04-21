@@ -16,6 +16,10 @@ Research Area
 ------
 Include: universal computing models, topological qubit, quantum channel, many-body system, quantum simulation, quantum control, entanglement, quantum notions
 
+Opening 
+------
+Students and postdocs are wanted. If you are interested in Quantum, please do not hesitate to send me an email! [also see here](http://www.itp.cas.cn/zprc/202012/t20201202_5806045.html)
+
 Highlights
 ------
 * **Quasi Codes**: Towards new quantum error-correction codes & computing with them, see [PRR 2, 033116 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033116)
