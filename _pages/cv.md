@@ -11,7 +11,7 @@ redirect_from:
 
 Career
 ======
-1. [Institute of Theoretical Physics](http://english.itp.cas.cn/), (2021-), Chinese Academy of Sciences, Accociate Professor
+1. [Institute of Theoretical Physics](http://english.itp.cas.cn/), (2021-), Chinese Academy of Sciences, Associate Professor
 2. [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/), (2018-2020), U. of Waterloo, Canada. postdoc
 3. [Quantum Matter Institute](https://qmi.ubc.ca/), (2015-2018), U. of British Columbia, Canada. postdoc 
 4. [Institute for Quantum Science and Technology](https://www.iqst.ca/), (2011-2015), U. of Calgary, Canada. Ph.D
