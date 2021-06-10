@@ -32,7 +32,7 @@ Highlights
 
 * **Universal Computing Matter**: Quantum computing made universal from high-form many-body entanglement, see [PRL 122, 090501 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.090501)
 
-<img src="/images/mbqca.jpg" alt="/images/mbqca" width="270"/>
+<img src="/images/mbqca.png" alt="/images/mbqca" width="270"/>
 
 * **sine-Gordon qubits**: QC with robust qubits described by sine-Gordon field theory, see [PRB 100, 024418 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.024418)
 
