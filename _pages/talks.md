@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **A minimalist's approach to logical quantum computing**, Institute for Theoretical Physics, Stanford University. July 2021
+* **Standard model of quantum computing and beyond**, School of Physics, South China Normal University. June 2021
 * **Quantum computing and phases of matter**, Department of Computer Science, University of Hong Kong. Mar 2021
 * **Standard model of quantum computing and beyond**, Beijing Academy of Quantum Information Sciences. Mar 2021
 * **Quantum channels and some of their applications**, Institute of Applied Math CAS. Jan 2021
