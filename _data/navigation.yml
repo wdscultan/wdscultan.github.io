@@ -15,6 +15,9 @@ main:
   - title: "Metaphysics"
     url: /metaphysics/
     
+  - title: "Photo Gallery"
+    url: /photo/
+    
     
  # - title: "Guide"
  #   url: /markdown/
