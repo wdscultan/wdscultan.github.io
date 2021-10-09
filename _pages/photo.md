@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<img src="/images/2007.JPG" alt="/images/2007物理所" width="280"/>
+<img src="/images/2007.JPG" alt="/images/2007物理所" width="500"/>
 
 <img src="/images/2011北京798.JPG" alt="/images/2011北京798" width="280"/>
 
