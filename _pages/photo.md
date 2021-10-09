@@ -24,10 +24,6 @@ redirect_from:
 
 <img src="/images/2012.jpg" alt="/images/2012" width="500"/>
 
-2014年 Johnston Canyon, Calgary
-
-<img src="/images/2014加拿大 johnston canyon.JPG" alt="/images/2014加拿大 johnston canyon" width="500"/>
-
 2016年 Berlin
 
 <img src="/images/2016.JPG" alt="/images/2016" width="500"/>
