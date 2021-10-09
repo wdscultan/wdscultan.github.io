@@ -20,11 +20,19 @@ redirect_from:
 
 <img src="/images/2011北京798.JPG" alt="/images/2011北京798" width="500"/>
 
+2012年 Calgary
+
+<img src="/images/2012.jpg" alt="/images/2012" width="500"/>
+
 2014年 Johnston Canyon, Calgary
 
 <img src="/images/2014加拿大 johnston canyon.JPG" alt="/images/2014加拿大 johnston canyon" width="500"/>
 
-2017年 温哥华
+2016年 Berlin
+
+<img src="/images/2016.JPG" alt="/images/2016" width="500"/>
+
+2017年 Vancouver
 
 <img src="/images/2017温哥华.JPG" alt="/images/2017温哥华" width="500"/>
 
