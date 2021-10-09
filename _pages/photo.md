@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/算盘.jpg" alt="/images/算盘" width="280"/>
 
-<img src="/images/2007物理所.jpg" alt="/images/2007物理所" width="80"/>
+<img src="/images/2007物理所.jpg" alt="/images/2007物理所" width="8"/>
 
 <img src="/images/2011北京798.jpg" alt="/images/2011北京798" width="80"/>
 
