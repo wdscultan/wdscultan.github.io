@@ -22,6 +22,10 @@ Students and postdocs are wanted. If you are interested in Quantum, please do no
 
 Highlights
 ------
+* **Unifying Q Computing Models**: We propose a framework to arrange diverse computing models into a regular table, see [Q Engineering 2.85 (2021)](https://onlinelibrary.wiley.com/doi/10.1002/que2.85)
+
+<img src="/images/UQCM.png" alt="/images/UQCM" width="280"/>
+
 * **Quasi Codes**: Towards new quantum error-correction codes & computing with them, see [PRR 2, 033116 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033116)
 
 <img src="/images/gate-cell.jpg" alt="/images/gate-cell" width="280"/>
