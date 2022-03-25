@@ -22,7 +22,7 @@ Students and postdocs are wanted. If you are interested in Quantum, please do no
 
 Highlights
 ------
-* **Q von Neumann architecture**: Universal quantum computer system with CPU, storage, control, see [PRA 101.052311 (2020)](https://doi.org/10.1103/PhysRevA.101.052311), [arXiv:2112.09345 (2021)] (https://arxiv.org/abs/2112.09345v1)
+* **Q von Neumann architecture**: Universal quantum computer system with CPU, storage, control, see [PRA 101.052311 (2020)](https://doi.org/10.1103/PhysRevA.101.052311), [arXiv:2112.09345 (2021)](https://arxiv.org/abs/2112.09345v1)
 
 <img src="/images/QCS.png" alt="/images/QCS" width="280"/>
 
