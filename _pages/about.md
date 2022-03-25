@@ -24,7 +24,7 @@ Highlights
 ------
 * **Q von Neumann architecture**: Universal quantum computer system with CPU, storage, control, see [PRA 101.052311 (2020)](https://doi.org/10.1103/PhysRevA.101.052311), [arXiv:2112.09345 (2021)](https://arxiv.org/abs/2112.09345v1)
 
-<img src="/images/QCS.png" alt="/images/QCS" width="310"/>
+<img src="/images/QCS.png" alt="/images/QCS" width="400"/>
 
 * **Unifying Q Computing Models**: We propose a framework to arrange diverse computing models into a regular table, see [Q Engineering 2.85 (2021)](https://onlinelibrary.wiley.com/doi/10.1002/que2.85)
 
