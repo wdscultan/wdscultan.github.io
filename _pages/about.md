@@ -22,9 +22,8 @@ Students and postdocs are wanted. If you are interested in Quantum, please do no
 
 Highlights
 ------
-* 我们成功举办【通用量子计算与信息理论研讨会】：[蔻享学术回放]（https://www.koushare.com/video/meetingVideo?mid=591）
+* 我们成功举办【通用量子计算与信息理论研讨会】[蔻享学术回放](https://www.koushare.com/video/meetingVideo?mid=591)
 
-<img src="/images/GPQ.png" alt="/images/GPQ" width="400"/>
 
 * **Q von Neumann architecture**: Universal quantum computer system with CPU, storage, control, see [PRA 101.052311 (2020)](https://doi.org/10.1103/PhysRevA.101.052311), [arXiv:2112.09345 (2021)](https://arxiv.org/abs/2112.09345v1)
 
