@@ -67,6 +67,8 @@ https://doi.org/10.1103/PhysRevA.71.022316)
 
 * 2008, Vittorio Giovannetti, Seth Lloyd, and Lorenzo Maccone, Quantum random access memory, [PRL 100:160501](https://doi.org/10.1103/PhysRevLett.100.160501)
 
+* 2008, Sergey Bravyi, David P. DiVincenzo, Daniel Loss, and Barbara M. Terhal, Quantum Simulation of Many-Body Hamiltonians Using Perturbation Theory with Bounded-Strength Interactions, [PRL 101, 070503](https://doi.org/10.1103/PhysRevLett.101.070503)
+
 * 2009,	Frank Verstraete, Michael M. Wolf, and J. Ignacio Cirac, Quantum computation and quantum-state engineering driven by dissipation, [Nat. Phys. 5:633](https://www.nature.com/articles/nphys1342)
 
 * 2009,	Bryan Eastin and Emanuel Knill, Restrictions on transversal encoded quantum gate sets, [PRL 102:110502](https://doi.org/10.1103/PhysRevLett.102.110502)
@@ -108,6 +110,8 @@ https://doi.org/10.1103/PhysRevA.71.022316)
 * 2019, Abel Molina and John Watrous, Revisiting the simulation of quantum Turing machines by quantum circuits, [Proc. Roy. Soc. 475:20180767](https://royalsocietypublishing.org/doi/10.1098/rspa.2018.0767)
 
 * 2020, Qisheng Wang and Mingsheng Ying, Quantum random access stored-program machines, [arXiv:2003.03514](https://arxiv.org/abs/2003.03514)
+
+* 2020, Yuxiang Yang, Renato Renner, Giulio Chiribella, Optimal universal programming of unitary gates, [PRL 125:210501](https://doi.org/10.1103/PhysRevLett.125.210501)
 
 * 2020,	Dong-Sheng Wang, A local model of quantum Turing machines, [Quant. Infor. Comput. 20:0213](https://doi.org/10.26421/QIC20.3-4); 
 A comparative study of universal quantum computing models: towards a physical unification, [Quantum Engineering. 2021;e85](https://arxiv.org/abs/2108.07909); 
