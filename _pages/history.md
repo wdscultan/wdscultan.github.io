@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "A Brief History Of Universal Quantum Computing Models"
+title: "A Brief History of Universal Quantum Computing Models"
 permalink: /history/
 author_profile: true
 ---
