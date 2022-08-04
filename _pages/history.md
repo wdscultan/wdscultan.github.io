@@ -90,9 +90,8 @@ https://doi.org/10.1103/PhysRevA.71.022316)
 
 * 2020,	Dong-Sheng Wang, A local model of quantum Turing machines, [Quant. Infor. Comput. 20:0213](https://doi.org/10.26421/QIC20.3-4); 
 A comparative study of universal quantum computing models: towards a physical unification, [Quantum Engineering. 2021;e85](https://arxiv.org/abs/2108.07909); 
-A prototype of quantum von Neumann architecture, [Commun. Theor. Phys.](https://iopscience.iop.org/article/10.1088/1572-9494/ac68d8)
+A prototype of quantum von Neumann architecture, [Commun. Theor. Phys. (2022)](https://iopscience.iop.org/article/10.1088/1572-9494/ac68d8)
 
-* 2021,	Giulio Chiribella, Yuxiang Yang, and Renato Renner, Fundamental Energy Requirement of Reversible Quantum Operations, [Phys. Rev. X 11:021014]
-(https://link.aps.org/doi/10.1103/PhysRevX.11.021014)
+* 2021,	Giulio Chiribella, Yuxiang Yang, and Renato Renner, Fundamental Energy Requirement of Reversible Quantum Operations, [Phys. Rev. X 11:021014](https://link.aps.org/doi/10.1103/PhysRevX.11.021014)
 
 * 2021, Zuzana Gavorová, Matan Seidel, and Yonathan Touati, Topological obstructions to implementing quantum if-clause, [arXiv:2011.10031v2](https://arxiv.org/abs/2011.10031)
