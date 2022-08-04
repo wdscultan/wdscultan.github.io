@@ -3,7 +3,6 @@ layout: archive
 title: "History"
 permalink: /history/
 author_profile: true
-
 ---
 
 This is a brief history of the development of universal quantum computing models.
