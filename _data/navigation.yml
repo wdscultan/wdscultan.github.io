@@ -8,9 +8,6 @@ main:
     
   - title: "About"
     url: /cv/
-
-  - title: "History"
-    url: /history/
     
   - title: "Talk"
     url: /talks/    
