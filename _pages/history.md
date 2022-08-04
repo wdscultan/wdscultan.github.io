@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "History"
 permalink: /history/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 
 This is a brief history of the development of universal quantum computing models.
 --
