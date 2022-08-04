@@ -3,12 +3,15 @@ main:
   #- title: "Publications"
   #  url: /publications/
   
-    - title: "History"
+  - title: "History"
     url: /history/
     
   - title: "About"
     url: /cv/
 
+  - title: "History"
+    url: /history/
+    
   - title: "Talk"
     url: /talks/    
 
