@@ -30,7 +30,7 @@ A more rigorous definition of QCA is by B. Schumacher and R. F. Werner in 2004, 
 * 1997, Michael A. Nielsen and Isaac L. Chuang studied stored-program quantum computing and the no-programming theorem, [PRL 79:321](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.79.321). This poses a problem that is resolved only lately.
 
 * 1997, Alexei Yu Kitaev developed the model of topological quantum computing by anyons, [Annals Phys. 303:2 (2003)](https://arxiv.org/abs/quant-ph/9707021),
-see also [Commun.Math.Phys. 227, 587 (2002)](https://arxiv.org/abs/quant-ph/0001071)
+see also [Commun. Math. Phys. 227:587 (2002)](https://arxiv.org/abs/quant-ph/0001071)
 
 * 1998, Edward Farhi and Sam Gutmann studied quantum walk algorithm, [PRA 58:915](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.58.915), 
 the complete proof of universality of quantum walk is by Andrew M. Childs, David Gosset, and Zak Webb, [Science 339:791 (2013)](https://doi.org/10.1126/science.1229957)
@@ -55,9 +55,9 @@ and also Xingxiang Zhou, Zheng-Wei Zhou, Guang-Can Guo, and Marc J. Feldman, [PR
 * 2005, Sergey Bravyi and Alexei Yu Kitaev, Universal quantum computation with ideal clifford gates and noisy ancillas, [PRA 71:022316](
 https://doi.org/10.1103/PhysRevA.71.022316)
 
-* 2006, Gui-Lu Long, General quantum interference principle and duality computer, [Commun. Theor. Phys. 45, 825](https://iopscience.iop.org/article/10.1088/0253-6102/45/5/013), also see [Int. J. Theor. Phys. 50, 1305 (2011)](https://link.springer.com/article/10.1007/s10773-010-0603-z)
+* 2006, Gui-Lu Long, General quantum interference principle and duality computer, [Commun. Theor. Phys. 45:825](https://iopscience.iop.org/article/10.1088/0253-6102/45/5/013), also see [Int. J. Theor. Phys. 50:1305 (2011)](https://link.springer.com/article/10.1007/s10773-010-0603-z)
 
-* 2006,	Timothy P. Spiller, Kae Nemoto, Samuel L. Braunstein, William J. Munro, Peter van Loock, and Gerard J. Milburn, Quantum computation by communication, [New J. Phys. 8, 30](https://iopscience.iop.org/article/10.1088/1367-2630/8/2/030)
+* 2006,	Timothy P. Spiller, Kae Nemoto, Samuel L. Braunstein, William J. Munro, Peter van Loock, and Gerard J. Milburn, Quantum computation by communication, [New J. Phys. 8:30](https://iopscience.iop.org/article/10.1088/1367-2630/8/2/030)
 
 * 2007,	Dominik Janzing, Spin-1/2 particles moving on a two-dimensional lattice with nearest-neighbor interactions can realize an autonomous quantum computer, [PRA 75:012307](https://doi.org/10.1103/PhysRevA.75.012307)
 
@@ -79,11 +79,11 @@ https://doi.org/10.1103/PhysRevA.71.022316)
 
 * 2010, Daniel Nagaj, Fast universal quantum computation with railroad-switch local hamiltonians, [J. Math. Phys. 51:062201](https://doi.org/10.1063/1.3384661)
 
-* 2010, Janet Anders and coauthors, Ancilla-driven universal quantum computation, [PRA 82, 020301](https://doi.org/10.1103/PhysRevA.82.020301)
+* 2010, Janet Anders and coauthors, Ancilla-driven universal quantum computation, [PRA 82:020301](https://doi.org/10.1103/PhysRevA.82.020301)
 
 * 2012, Austin G. Fowler, Matteo Mariantoni, John M. Martinis, and Andrew N. Cleland, Surface codes: Towards practical large-scale quantum computation, [PRA 86:032324](https://doi.org/10.1103/PhysRevA.86.032324)
 
-* 2012, G. Paz-Silva, A. Rezakhani, J. Dominy, and D. Lidar, Zeno effect for quantum computation and control, [PRL 108, 080501](https://doi.org/10.1103/PhysRevLett.108.080501)
+* 2012, G. Paz-Silva, A. Rezakhani, J. Dominy, and D. Lidar, Zeno effect for quantum computation and control, [PRL 108:080501](https://doi.org/10.1103/PhysRevLett.108.080501)
 
 * 2013,	Adam Paetznick and Ben W. Reichardt, Universal fault-tolerant quantum computation with only transversal gates and error correction, 
 [PRL 111:090505](10.1103/PhysRevLett.111.090505)
@@ -122,3 +122,8 @@ A prototype of quantum von Neumann architecture, [Commun. Theor. Phys. (2022)](h
 * 2021,	Giulio Chiribella, Yuxiang Yang, and Renato Renner, Fundamental Energy Requirement of Reversible Quantum Operations, [Phys. Rev. X 11:021014](https://link.aps.org/doi/10.1103/PhysRevX.11.021014)
 
 * 2021, Zuzana Gavorová, Matan Seidel, and Yonathan Touati, Topological obstructions to implementing quantum if-clause, [arXiv:2011.10031v2](https://arxiv.org/abs/2011.10031)
+
+ALSO SEE [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo), [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/), [Entropy Zoo](https://phfaist.com/entropyzoo), [Error Correction Zoo](https://errorcorrectionzoo.org/)
+
+PLEASE LET ME KNOW IF IMPORTANT PROGRESS WAS NOT LISTED HERE.
+
