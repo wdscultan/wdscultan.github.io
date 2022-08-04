@@ -73,12 +73,29 @@ https://doi.org/10.1103/PhysRevA.71.022316)
 
 * 2010, Daniel Nagaj, Fast universal quantum computation with railroad-switch local hamiltonians, [J. Math. Phys. 51:062201](https://doi.org/10.1063/1.3384661)
 
+* 2010, Janet Anders and coauthors, Ancilla-driven universal quantum computation, [PRA 82, 020301](https://doi.org/10.1103/PhysRevA.82.020301)
+
+* 2012, Austin G. Fowler, Matteo Mariantoni, John M. Martinis, and Andrew N. Cleland, Surface codes: Towards practical large-scale quantum computation, [PRA 86:032324](https://doi.org/10.1103/PhysRevA.86.032324)
+
+* 2012, G. Paz-Silva, A. Rezakhani, J. Dominy, and D. Lidar, Zeno effect for quantum computation and control, [PRL 108, 080501](https://doi.org/10.1103/PhysRevLett.108.080501)
+
 * 2013,	Adam Paetznick and Ben W. Reichardt, Universal fault-tolerant quantum computation with only transversal gates and error correction, 
 [PRL 111:090505](10.1103/PhysRevLett.111.090505)
 
+* 2013, Daniel Gottesman, Fault-Tolerant Quantum Computation with Constant Overhead, [arXiv:1310.2984](https://arxiv.org/abs/1310.2984)
+
 * 2014, Mateus Araújo, Adrien Feix, Fabio Costa, and Časlav Brukner, Quantum circuits cannot control unknown operations, [New J. Phys. 16:093026](https://iopscience.iop.org/article/10.1088/1367-2630/16/9/093026)
 
+* 2015, Sagar Vijay, Timothy H. Hsieh, and Liang Fu, Majorana Fermion Surface Code for Universal Quantum Computation, [PRX 5:041038](https://doi.org/10.1103/PhysRevX.5.041038)
+
 * 2016, Seth Lloyd and Barbara Terhal, Adiabatic and Hamiltonian computing on a 2d lattice with simple two-qubit interactions, [New J. Phys. 18:023042](https://iopscience.iop.org/article/10.1088/1367-2630/18/2/023042)
+
+* 2016, J. Marshall, L. Venuti, and P. Zanardi, Modular quantum-information processing by dissipation, [PRA 94:052339](https://doi.org/10.1103/PhysRevA.94.052339)
+
+* 2017, A. Mantri, T. Demarie, N. Menicucci, and J. Fitzsimons, Flow ambiguity: A path towards classically driven blind quantum computation
+ [PRX 7:031004](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.7.031004)
+ 
+* 2017, J. Ikonen, J. Salmilehto, and M. Möttönen, Energy-efficient quantum computing, [npj Quantum Information](https://www.nature.com/articles/s41534-017-0015-5)
 
 * 2018,	Toby Cubitt, Ashley Montanaro, Stephen Piddock, Universal quantum Hamiltonians, [Proc. Natl. Acad. Sci. 115:9497](https://arxiv.org/abs/1701.05182v4)
 
@@ -91,6 +108,8 @@ https://doi.org/10.1103/PhysRevA.71.022316)
 * 2020,	Dong-Sheng Wang, A local model of quantum Turing machines, [Quant. Infor. Comput. 20:0213](https://doi.org/10.26421/QIC20.3-4); 
 A comparative study of universal quantum computing models: towards a physical unification, [Quantum Engineering. 2021;e85](https://arxiv.org/abs/2108.07909); 
 A prototype of quantum von Neumann architecture, [Commun. Theor. Phys. (2022)](https://iopscience.iop.org/article/10.1088/1572-9494/ac68d8)
+
+* 2021, Sara Bartolucci and coauthors, Fusion-based quantum computation, [arXiv:2101.09310](https://arxiv.org/abs/2101.09310)
 
 * 2021,	Giulio Chiribella, Yuxiang Yang, and Renato Renner, Fundamental Energy Requirement of Reversible Quantum Operations, [Phys. Rev. X 11:021014](https://link.aps.org/doi/10.1103/PhysRevX.11.021014)
 
