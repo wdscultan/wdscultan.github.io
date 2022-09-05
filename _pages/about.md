@@ -25,7 +25,7 @@ Highlights
 * 我们成功举办【通用量子计算与信息理论研讨会】[蔻享学术回放](https://www.koushare.com/video/meetingVideo?mid=591)
 
 
-* **Q von Neumann architecture**: Universal quantum computer system with CPU, storage, control, see [PRA 101.052311 (2020)](https://doi.org/10.1103/PhysRevA.101.052311), [Commun. Theor. Phys. 74 095103 (2022)](https://doi.org/10.1088/1572-9494/ac68d8)
+* **Q von Neumann architecture**: Universal quantum computer system with CPU, storage, control, see [PRA 101, 052311 (2020)](https://doi.org/10.1103/PhysRevA.101.052311), [Commun. Theor. Phys. 74, 095103 (2022)](https://doi.org/10.1088/1572-9494/ac68d8)
 
 <img src="/images/QCS.png" alt="/images/QCS" width="400"/>
 
