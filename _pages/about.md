@@ -33,7 +33,7 @@ Highlights
 
 <img src="/images/UQCM.png" alt="/images/UQCM" width="280"/>
 
-* **Quasi Codes**: Towards new quantum error-correction codes & computing with them, see [PRR 2, 033116 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033116)
+* **Quasi Codes**: Towards new quantum error-correction codes & computing with them, see [PRR 2, 033116 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033116), [NJP 24, 023019 (2022)](https://doi.org/10.1088/1367-2630/ac4737) 
 
 <img src="/images/gate-cell.jpg" alt="/images/gate-cell" width="280"/>
 
