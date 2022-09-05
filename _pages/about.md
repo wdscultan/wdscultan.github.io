@@ -14,7 +14,7 @@ Research Area
 * **Quantum Computation**.  **Quantum Physics**. 
 
 ------
-Include: universal computing models, error correction, topological qubit, quantum channel, many-body system, quantum simulation, quantum control, entanglement, quantum notions
+Include: universal computing models, error correction, topological qubits, quantum channel, many-body system, quantum simulation, quantum control, entanglement, quantum notions
 
 Opening 
 ------
