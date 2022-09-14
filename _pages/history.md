@@ -90,6 +90,8 @@ https://doi.org/10.1103/PhysRevA.71.022316)
 
 * 2013, Daniel Gottesman, Fault-Tolerant Quantum Computation with Constant Overhead, [arXiv:1310.2984](https://arxiv.org/abs/1310.2984)
 
+* 2013, M. Van den Nest, Universal quantum computation with little entanglement, [PRL 110:060504](https://doi.org/10.1103/PhysRevLett.110.060504)
+
 * 2014, Mateus Araújo, Adrien Feix, Fabio Costa, and Časlav Brukner, Quantum circuits cannot control unknown operations, [New J. Phys. 16:093026](https://iopscience.iop.org/article/10.1088/1367-2630/16/9/093026)
 
 * 2015, Sagar Vijay, Timothy H. Hsieh, and Liang Fu, Majorana Fermion Surface Code for Universal Quantum Computation, [PRX 5:041038](https://doi.org/10.1103/PhysRevX.5.041038)
