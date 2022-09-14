@@ -45,7 +45,7 @@ Highlights
 
 <img src="/images/mbqca.png" alt="/images/mbqca" width="270"/>
 
-* **sine-Gordon qubits**: QC with robust qubits described by sine-Gordon field theory, see [PRB 100, 024418 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.024418)
+* **sine-Gordon qubits**: QC with robust qubits described by sine-Gordon field theory, see [PRB 100, 024418 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.024418), [Ann. Phys. 412, 168015 (2020)](https://doi.org/10.1016/j.aop.2019.168015)
 
 <img src="/images/sGQ.png" alt="/images/sGQ" width="160"/>
 
