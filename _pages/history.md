@@ -52,6 +52,8 @@ and also Xingxiang Zhou, Zheng-Wei Zhou, Guang-Can Guo, and Marc J. Feldman, [PR
 
 * 2004, Simon Perdrix and Philippe Jorrand, Measurement-based quantum Turing machines and their universality, [arXiv:quant-ph/0404146](https://arxiv.org/abs/quant-ph/0404146)
 
+* 2004, Johan Åberg, Subspace preservation, subspace locality, and gluing of completely positive maps, [Ann. Phys. 313:326](https://www.sciencedirect.com/science/article/pii/S0003491604000879?via%3Dihub)
+
 * 2005, Sergey Bravyi and Alexei Yu Kitaev, Universal quantum computation with ideal clifford gates and noisy ancillas, [PRA 71:022316](
 https://doi.org/10.1103/PhysRevA.71.022316)
 
