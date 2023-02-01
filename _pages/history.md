@@ -45,7 +45,7 @@ the complete proof of universality of quantum walk is by Andrew M. Childs, David
 
 * 2001, Robert Raussendorf and Hans J. Briegel developed the measurement-based quantum computing, [PRL 86:5188](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.5188)
 
-* 2001, autonamous Hamiltonian computing by A. Mizel, M. Mitchell, and M. Cohen, [PRA 63:040302](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.63.040302)
+* 2001, autonamous Hamiltonian computing by Ari Mizel, M. W. Mitchell, and Marvin L. Cohen, [PRA 63:040302](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.63.040302)
 
 * 2002, Hamiltonian QCA-like models by Simon C. Benjamin, [PRL 88:017904](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.88.017904),
 and also Xingxiang Zhou, Zheng-Wei Zhou, Guang-Can Guo, and Marc J. Feldman, [PRL 89:197903](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.197903), quantum state transfer by Sougato Bose, [PRL 91:207901 (2003)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.91.207901)
