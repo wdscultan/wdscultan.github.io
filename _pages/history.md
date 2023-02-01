@@ -81,6 +81,8 @@ https://doi.org/10.1103/PhysRevA.71.022316)
 
 * 2009, Anne Broadbent, Joseph Fitzsimons, and Elham Kashefi, Universal blind quantum computation, [FOCS](https://doi.org/10.1109/FOCS.2009.36)
 
+* 2010, Stephen P. Jordan, Permutational quantum computing, [Quant Infor Comput 10:470](https://arxiv.org/abs/0906.2508)
+
 * 2010, Daniel Nagaj, Fast universal quantum computation with railroad-switch local hamiltonians, [J. Math. Phys. 51:062201](https://doi.org/10.1063/1.3384661)
 
 * 2010, Janet Anders and coauthors, Ancilla-driven universal quantum computation, [PRA 82:020301](https://doi.org/10.1103/PhysRevA.82.020301)
