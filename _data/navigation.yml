@@ -6,8 +6,8 @@ main:
   - title: "History"
     url: /history/
     
-  - title: "About"
-    url: /cv/
+ # - title: "About"
+ #   url: /cv/
     
   - title: "Talk"
     url: /talks/    
@@ -15,8 +15,8 @@ main:
  # - title: "Teaching"
  #   url: /teaching/    
     
-  - title: "Metaphysics"
-    url: /metaphysics/
+ # - title: "Metaphysics"
+ #   url: /metaphysics/
     
   - title: "Photo Gallery"
     url: /photo/
