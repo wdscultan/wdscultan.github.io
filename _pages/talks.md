@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Universal quantum computing models revisited**, The 15th Asia Pacific Physics Conference, Seoul, Korea. Aug 2022
 * **A minimalist's approach to logical quantum computing**, Institute for Theoretical Physics, Stanford University. July 2021
 * **Standard model of quantum computing and beyond**, School of Physics, South China Normal University. June 2021
 * **Quantum computing and phases of matter**, Department of Computer Science, University of Hong Kong. Mar 2021
