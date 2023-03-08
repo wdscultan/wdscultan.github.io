@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com"
+  github           : "https://github.com/"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  link             : "http://www.amss.cas.cn/qcqip/lzxueshuhuodong/lzxueshubaogao/"
 
 
 # Reading Files
