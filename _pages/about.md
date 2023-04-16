@@ -24,7 +24,7 @@ Highlights
 ------
 * Some recent study of universal quantum computing models (UQCM) unified with quantum resource theory (QRT). See the figure for the arXiv numbers.
 
-<img src="/images/QCS.png" alt="/images/study" width="500"/>
+<img src="/images/study.png" alt="/images/study" width="500"/>
 
 * 我们成功举办【通用量子计算与信息理论研讨会】[蔻享学术回放](https://www.koushare.com/video/meetingVideo?mid=591)
 
