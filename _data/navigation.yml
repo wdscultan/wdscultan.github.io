@@ -15,8 +15,8 @@ main:
  # - title: "Teaching"
  #   url: /teaching/    
     
- # - title: "Metaphysics"
- #  url: /metaphysics/
+  - title: "Metaphysics"
+    url: /metaphysics/
     
   - title: "Photo Gallery"
     url: /photo/
