@@ -22,6 +22,8 @@ Students and postdocs are wanted. If you are interested in Quantum, please do no
 
 Highlights
 ------
+* Make quantum channels `super': see [NJP 25, 043013 (2023)](https://doi.org/10.1088/1367-2630/acc5aa)
+
 * Some recent study of universal quantum computing models (UQCM) unified with quantum resource theory (QRT). See the figure for the arXiv numbers.
 
 <img src="/images/study.png" alt="/images/study" width="500"/>
