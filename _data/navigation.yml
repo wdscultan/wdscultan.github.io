@@ -1,26 +1,28 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+
   
   - title: "History"
     url: /history/
     
- # - title: "About"
- #   url: /cv/  
-    
   - title: "Talk"
     url: /talks/    
-
- # - title: "Teaching"
- #   url: /teaching/    
-    
+  
   - title: "Metaphysics"
     url: /metaphysics/
     
   - title: "Photo Gallery"
     url: /photo/
     
-    
  # - title: "Guide"
  #   url: /markdown/
+ 
+ # - title: "About"
+ #   url: /cv/  
+ 
+  # - title: "Teaching"
+ #   url: /teaching/  
+
+
+  #- title: "Publications"
+  #  url: /publications/
