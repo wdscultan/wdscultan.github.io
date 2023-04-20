@@ -18,7 +18,7 @@ Include: universal computing models, error correction, topological qubits, quant
 
 Opening 
 ------
-Students and Postdocs are needed. Please do not hesitate to send me an email! [also see here](http://www.itp.cas.cn/zprc/202012/t20201202_5806045.html)
+Students and Postdocs are needed. Please do not hesitate to send me an email, and do not miss deadlines! [also see here](http://www.itp.cas.cn/zprc/202012/t20201202_5806045.html)
 
 Highlights
 ------
