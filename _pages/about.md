@@ -24,6 +24,8 @@ Highlights
 ------
 * Make quantum channels `super': see [NJP 25, 043013 (2023)](https://doi.org/10.1088/1367-2630/acc5aa)
 
+* Learning quantum states with neural networks, see [Nat. Commun. 13, 6222 (2022)](https://www.nature.com/articles/s41467-022-33928-z)
+
 * Some recent study of universal quantum computing models (UQCM) unified with quantum resource theory (QRT). See the figure for the arXiv numbers.
 
 <img src="/images/study.png" alt="/images/study" width="500"/>
