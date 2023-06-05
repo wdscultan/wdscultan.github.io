@@ -9,6 +9,6 @@ These are my unpublished notes on physics, metaphysics or philosophy. They were 
 
 * (2018) A Quantum Point of View: Science and Culture (in chinese) [download](http://wdscultan.github.io/files/quantum.pdf)
 
-* (2010) Foundamental thoughts of foundational physics [download](http://wdscultan.github.io/files/ftfp.pdf)
+{% (2010) Foundamental thoughts of foundational physics [download](http://wdscultan.github.io/files/ftfp.pdf) %}
 
 * (2009) From Nothing till Infinity (in chinese) [download](http://wdscultan.github.io/files/Infinity.pdf)
