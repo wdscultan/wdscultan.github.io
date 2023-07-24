@@ -18,7 +18,7 @@ Include: universal computing models, error correction, topological qubits, quant
 
 Opening 
 ------
-Students and Postdocs are needed. Please do not hesitate to send me an email, and do not miss deadlines! [also see here](https://www.scholarset.com/recruitment/detail?id=1720)
+Students and Postdocs are needed. Please do not hesitate to send me an email.
 
 Highlights
 ------
