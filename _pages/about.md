@@ -22,6 +22,8 @@ Students and Postdocs are needed. Please do not hesitate to send me an email, an
 
 Highlights
 ------
+* The 2nd Workshop on General-Purpose Quantum Computing and Information Theory [蔻享学术回放](https://www.koushare.com/lives/room/876310)
+
 * Make quantum channels `super': see [NJP 25, 043013 (2023)](https://doi.org/10.1088/1367-2630/acc5aa)
 
 * Learning quantum states with neural networks, see [Nat. Commun. 13, 6222 (2022)](https://www.nature.com/articles/s41467-022-33928-z)
