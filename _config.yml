@@ -86,10 +86,9 @@ author:
   location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3egjtckAAAAJ"
   email            : "wds@itp.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Dong-Sheng-Wang-4"
-  uri              : "https://people.ucas.ac.cn/~0070556"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -111,12 +110,9 @@ author:
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            : "https://www.weibo.com"
-  xing             :
-  youtube          :
-  wikipedia        :
   uri              : "http://www.amss.cas.cn/qcqip/lzxueshuhuodong/lzxueshubaogao/"
-  uri              : "https://www.koushare.com/itpcas/review"
+  uri              : "https://people.ucas.ac.cn/~0070556"
+  weibo            : "https://www.weibo.com"
 
 
 # Reading Files
