@@ -24,7 +24,7 @@ Highlights
 ------
 * A survey of universal quantum von Neumann architecture [Entropy 2023](https://www.mdpi.com/1099-4300/25/8/1187)
 
-<img src="/images/qvn.png" alt="/images/qvn" width="300"/>
+<img src="/images/qvn.png" alt="/images/qvn" width="100"/>
 
 * The 2nd Workshop on General-Purpose Quantum Computing and Information Theory [蔻享学术回放](https://www.koushare.com/lives/room/876310)
 
