@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /形而上/
+permalink: /metaphysics/
 author_profile: true
 ---
 
