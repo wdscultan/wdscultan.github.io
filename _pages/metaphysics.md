@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My essay collections"
+title: ""
 permalink: /形而上/
 author_profile: true
 ---
