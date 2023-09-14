@@ -28,7 +28,7 @@ Highlights
 
 * Realize superchannels with high accuracy, in collaboration with experimental group [arXiv:2308.14262](https://arxiv.org/abs/2308.14262)
 
-<img src="/images/NMRSC.png" alt="/images/NMRSC" width="350"/>
+<img src="/images/NMRSC.png" alt="/images/NMRSC" width="450"/>
 
 * The 2nd Workshop on General-Purpose Quantum Computing and Information Theory [蔻享学术回放](https://www.koushare.com/lives/room/876310)
 
