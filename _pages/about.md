@@ -26,6 +26,10 @@ Highlights
 
 <img src="/images/qvn.png" alt="/images/qvn" width="200"/>
 
+* Realize superchannels with high accuracy, in collaboration with experimental group [arXiv:2308.14262](https://arxiv.org/abs/2308.14262)
+
+<img src="/images/NMRSC.png" alt="/images/NMRSC" width="200"/>
+
 * The 2nd Workshop on General-Purpose Quantum Computing and Information Theory [蔻享学术回放](https://www.koushare.com/lives/room/876310)
 
 * Make quantum channels `super': see [NJP 25, 043013 (2023)](https://doi.org/10.1088/1367-2630/acc5aa)
