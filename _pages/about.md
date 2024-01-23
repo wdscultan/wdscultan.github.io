@@ -24,7 +24,7 @@ Highlights
 ------
 * A table of universal quantum computing models based on our recent theory
 
-<img src="/images/TableUQCM.png" alt="/images/qvn" width="550"/>
+<img src="/images/TableUQCM.png" alt="/images/qvn" width="500"/>
 
 * A survey of universal quantum von Neumann architecture [Entropy 2023](https://www.mdpi.com/1099-4300/25/8/1187)
 
