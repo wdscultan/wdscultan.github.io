@@ -83,7 +83,7 @@ Highlights
 
 <img src="/images/mbqc.png" alt="/images/mbqc" width="300"/>
 
-* **Qubit channel universal simulator**: only need a CNOT gate and a pbit to get arbitrary qubit noise, see [PRL 111, 130504 (2013)](https://doi.org/10.1103/PhysRevLett.111.130504)
+* **Qubit channel universal simulator**: only need a CNOT gate and a pbit to get arbitrary qubit noise, see [PRL 111, 130504 (2013)](https://doi.org/10.1103/PhysRevLett.111.130504), [NJP 17, 043004 (2015)](https://iopscience.iop.org/article/10.1088/1367-2630/17/4/043004)
 
 <img src="/images/qubit_channel.png" alt="/images/qubit_channel" width="400"/>
 
