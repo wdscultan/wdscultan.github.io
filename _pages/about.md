@@ -28,7 +28,7 @@ Highlights
 
 * A survey of universal quantum von Neumann architecture [Entropy 2023](https://www.mdpi.com/1099-4300/25/8/1187)
 
-<img src="/images/qvn.png" alt="/images/qvn" width="200"/>
+<img src="/images/qvn.png" alt="/images/qvn" width="180"/>
 
 * Realize superchannels with high accuracy, in collaboration with experimental group [NJP 26 013037 (2024)](https://iopscience.iop.org/article/10.1088/1367-2630/ad1c91)
 
