@@ -20,6 +20,7 @@ My father's arts
 <img src="/images/5.jpg" alt="/images/5" width="100"/>
 <img src="/images/6.jpg" alt="/images/6" width="100"/>
 <img src="/images/7.jpg" alt="/images/7" width="100"/>
+<img src="/images/8.jpg" alt="/images/8" width="100"/>
 
 * 石刻算盘
 
