@@ -11,11 +11,11 @@ main:
   - title: "Files"
     url: /files/
     
- # - title: "Photo Gallery"
- #   url: /photo/
+  - title: "Arts"
+    url: /photo/
     
- # - title: "形而上"
- #   url: /metaphysics/
+  - title: "Metaphysics"
+    url: /metaphysics/
     
  # - title: "Guide"
  #   url: /markdown/
