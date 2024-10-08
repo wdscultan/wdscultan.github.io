@@ -22,7 +22,7 @@ Students and Postdocs are needed. Please do not hesitate to send me an email.
 
 Highlights
 ------
-* Channel capacity characterized by resource theory [PRA 110, 032413 (2024)](https://doi.org/10.1103/PhysRevA.110.032413)
+* Channel capacities can be characterized by resource theory [PRA 110, 032413 (2024)](https://doi.org/10.1103/PhysRevA.110.032413)
 
 * A table of universal quantum computing models based on our recent theory
 
