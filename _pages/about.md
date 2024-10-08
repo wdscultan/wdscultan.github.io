@@ -22,6 +22,8 @@ Students and Postdocs are needed. Please do not hesitate to send me an email.
 
 Highlights
 ------
+* Channel capacity characterized by resource theory [PRA 110, 032413 (2024)](https://doi.org/10.1103/PhysRevA.110.032413)
+
 * A table of universal quantum computing models based on our recent theory
 
 <img src="/images/TableUQCM.png" alt="/images/qvn" width="500"/>
@@ -30,7 +32,7 @@ Highlights
 
 <img src="/images/qvn.png" alt="/images/qvn" width="180"/>
 
-* Realize superchannels with high accuracy, in collaboration with experimental group [NJP 26 013037 (2024)](https://iopscience.iop.org/article/10.1088/1367-2630/ad1c91)
+* Realize superchannels with high accuracy, in collaboration with experimental group [NJP 26, 013037 (2024)](https://iopscience.iop.org/article/10.1088/1367-2630/ad1c91)
 
 <img src="/images/NMRSC.png" alt="/images/NMRSC" width="450"/>
 
