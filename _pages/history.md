@@ -133,6 +133,8 @@ A prototype of quantum von Neumann architecture, [Commun. Theor. Phys. 74:095103
 
 * 2021, Zuzana Gavorová, Matan Seidel, and Yonathan Touati, Topological obstructions to implementing quantum if-clause, [arXiv:2011.10031v2](https://arxiv.org/abs/2011.10031)
 
+* 2023, Dong-Sheng Wang, a unification/classification of universal computing models from resource theory, [Commun. Theor. Phys. 75 125101](https://iopscience.iop.org/article/10.1088/1572-9494/ad07d6)
+
 * 2023, Kyrylo Simonov and coauthors show that quantum SWICTH with indefinite causal order is universal, [arXiv:2311.13654](https://arxiv.org/abs/2311.13654)
 
 * 2024, Philip A. LeMaitre and coauthors show that relativistic motions enables universal quantum computing, [arXiv:2411.00105](https://arxiv.org/abs/2411.00105)
