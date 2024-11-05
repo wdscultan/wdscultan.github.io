@@ -123,13 +123,19 @@ https://doi.org/10.1103/PhysRevA.71.022316)
 
 * 2020,	Dong-Sheng Wang, A local model of quantum Turing machines, [Quant. Infor. Comput. 20:0213](https://doi.org/10.26421/QIC20.3-4); 
 A comparative study of universal quantum computing models: towards a physical unification, [Quantum Engineering. 2021;e85](https://arxiv.org/abs/2108.07909); 
-A prototype of quantum von Neumann architecture, [Commun. Theor. Phys. (2022)](https://iopscience.iop.org/article/10.1088/1572-9494/ac68d8)
+A prototype of quantum von Neumann architecture, [Commun. Theor. Phys. 74:095103](https://iopscience.iop.org/article/10.1088/1572-9494/ac68d8)
+
+* 2020, Adrian Parra-Rodriguez and coauthors creat a Hamiltonian-based digital-analog quantum computation, [PRA 101:022305](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.101.022305)
 
 * 2021, Sara Bartolucci and coauthors, Fusion-based quantum computation, [arXiv:2101.09310](https://arxiv.org/abs/2101.09310)
 
 * 2021,	Giulio Chiribella, Yuxiang Yang, and Renato Renner, Fundamental Energy Requirement of Reversible Quantum Operations, [Phys. Rev. X 11:021014](https://link.aps.org/doi/10.1103/PhysRevX.11.021014)
 
 * 2021, Zuzana Gavorová, Matan Seidel, and Yonathan Touati, Topological obstructions to implementing quantum if-clause, [arXiv:2011.10031v2](https://arxiv.org/abs/2011.10031)
+
+* 2023, Kyrylo Simonov and coauthors show that quantum SWICTH with indefinite causal order is universal, [arXiv:2311.13654](https://arxiv.org/abs/2311.13654)
+
+* 2024, Philip A. LeMaitre and coauthors show that relativistic motions enables universal quantum computing, [arXiv:2411.00105](https://arxiv.org/abs/2411.00105)
 
 ALSO SEE [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo), [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/), [Entropy Zoo](https://phfaist.com/entropyzoo), [Error Correction Zoo](https://errorcorrectionzoo.org/)
 
