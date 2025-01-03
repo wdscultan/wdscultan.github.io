@@ -22,6 +22,8 @@ Students and Postdocs are needed. Please do not hesitate to send me an email.
 
 Highlights
 ------
+* Thanks to Wu Li Xue Bao for the invitation! A review of universal/fault-tolerant quantum computing [Acta Phys. Sin. 73(22): 220302 (2024)](https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.73.20240893)
+
 * Channel capacities can be characterized by resource theory [PRA 110, 032413 (2024)](https://doi.org/10.1103/PhysRevA.110.032413)
 
 * A table of universal quantum computing models based on our recent theory
