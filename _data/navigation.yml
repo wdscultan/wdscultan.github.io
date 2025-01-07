@@ -4,6 +4,9 @@ main:
   
   - title: "History"
     url: /history/
+
+  - title: "About"
+    url: /cv/  
     
   - title: "Talk"
     url: /talks/    
@@ -20,8 +23,6 @@ main:
  # - title: "Guide"
  #   url: /markdown/
  
- # - title: "About"
- #   url: /cv/  
  
   # - title: "Teaching"
  #   url: /teaching/  
