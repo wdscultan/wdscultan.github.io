@@ -17,7 +17,7 @@ Research Career
 postdoc with Prof. [Raymond Laflamme](https://laflamme.iqc.uwaterloo.ca/)
    
 [Quantum Matter Institute](https://qmi.ubc.ca/), (2015-2018), U. of British Columbia, Canada. 
-postdoc with Prof. [Robert Raussendorf](https://qmi.ubc.ca/team-member/robert-raussendorf/)
+postdoc with Prof. [Robert Raussendorf](https://qmi.ubc.ca/team-member/robert-raussendorf/) and Prof. [Ian Affleck](https://phas.ubc.ca/memoriam-ian-affleck-1952-2024)
    
 [Institute for Quantum Science and Technology](https://www.iqst.ca/), (2011-2015), U. of Calgary, Canada.
 Ph.D with Prof. [Barry Sanders](https://profiles.ucalgary.ca/barry-sanders)
