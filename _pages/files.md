@@ -7,6 +7,7 @@ author_profile: true
 
 Files
 ------
+1. [Review of UQCM](http://wdscultan.github.io/files/uqcm_wang.pdf) (universal quantum computing models), translated from Acta Phys. Sin. 73(22): 220302 (2024)
 1. [Lecture notes](http://wdscultan.github.io/files/qphys.pdf) of quantum theory
 1. [Compact](http://wdscultan.github.io/files/AQCS_Wang.pdf) and [Full](https://prism.ucalgary.ca/handle/11023/2466) versions of my Ph.D thesis
 1. Publications: please see [arXiv](https://arxiv.org/list/quant-ph/new)
