@@ -139,6 +139,8 @@ A prototype of quantum von Neumann architecture, [Commun. Theor. Phys. 74:095103
 
 * 2024, Philip A. LeMaitre and coauthors show that relativistic motions enables universal quantum computing, [arXiv:2411.00105](https://arxiv.org/abs/2411.00105)
 
+* 2024, Alexander Schuckert and coathours propose fermion-qubit hybrid model for universal quantum computing, [arXiv:2411.08955](https://arxiv.org/abs/2411.08955)
+
   
 
 ALSO SEE [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo), [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/), [Entropy Zoo](https://phfaist.com/entropyzoo), [Error Correction Zoo](https://errorcorrectionzoo.org/)
