@@ -143,7 +143,7 @@ A prototype of quantum von Neumann architecture, [Commun. Theor. Phys. 74:095103
 
   
 
-ALSO SEE [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo), [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/), [Entropy Zoo](https://phfaist.com/entropyzoo), [Error Correction Zoo](https://errorcorrectionzoo.org/)
+ALSO SEE [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo), [Algorithm Zoo](https://quantumalgorithmzoo.org/), [Entropy Zoo](https://phfaist.com/entropyzoo), [Codetable](https://www.codetables.de/), [Error Correction Zoo](https://errorcorrectionzoo.org/)
 
 PLEASE LET ME KNOW IF IMPORTANT PROGRESS WAS NOT LISTED HERE.
 
