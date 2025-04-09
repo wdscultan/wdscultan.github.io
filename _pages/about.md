@@ -16,12 +16,12 @@ Research Area
 ------
 Include: universal computing models, error correction, topological qubits, quantum channel, many-body system, quantum simulation, quantum control, entanglement, quantum resources
 
-Opening 
-------
-Students and Postdocs are needed. Please do not hesitate to send me an email.
-
 Highlights
 ------
+* General channel capacities from quantum channel-state duality, new [preprint](https://arxiv.org/abs/2504.01411)
+
+* A novel class of quantum error-correction codes applied to q communication, with our collaborators [PRA 111, 012606 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.012606)
+
 * Thanks to Wu Li Xue Bao for the invitation! A review of universal/fault-tolerant quantum computing [Acta Phys. Sin. 73(22): 220302 (2024)](https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.73.20240893)
 
 * Channel capacities can be characterized by resource theory [PRA 110, 032413 (2024)](https://doi.org/10.1103/PhysRevA.110.032413)
