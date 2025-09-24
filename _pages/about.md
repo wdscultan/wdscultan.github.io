@@ -18,6 +18,10 @@ Include: universal computing models, error correction, topological qubits, quant
 
 Highlights
 ------
+* A scheme of oblivious distributed quantum computing allowing black boxes [Quantum Sci. Tech. 10 045014 (2025)](https://iopscience.iop.org/article/10.1088/2058-9565/adf6d5)
+
+<img src="/images/dqc.png" alt="/images/dqc" width="500"/>
+
 * General channel capacities from quantum channel-state duality, new [preprint](https://arxiv.org/abs/2504.01411)
 
 * A novel class of quantum error-correction codes applied to q communication, with our collaborators [PRA 111, 012606 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.012606)
