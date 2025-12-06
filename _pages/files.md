@@ -21,3 +21,5 @@ Introductions
 5. [Floquet system](http://wdscultan.github.io/files/Floquet.pdf)
 6. [Phases of fractons](http://wdscultan.github.io/files/Fracton.pdf)
 7. [Quantum many body entanglement](http://wdscultan.github.io/files/MBE.pdf)
+8. [Conformal field theory](http://wdscultan.github.io/files/CFT.pdf)
+9. [CTP Theorem](http://wdscultan.github.io/files/CTP.pdf)
