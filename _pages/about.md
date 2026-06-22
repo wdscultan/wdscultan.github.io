@@ -18,9 +18,13 @@ Include: universal computing models, error correction, topological qubits, quant
 
 Highlights
 ------
+* Quantum transistor: can it be better/replace qubits? [preprint](https://arxiv.org/abs/2602.05166)
+
+<img src="/images/晶体管.jpg" alt="/images/晶体管" width="300"/>
+
 * The other `half' of quantum circuits is possible: sequential circuits [preprint](https://arxiv.org/abs/2602.05166)
 
-<img src="/images/时序.png" alt="/images/时序" width="400"/>
+<img src="/images/时序.png" alt="/images/时序" width="300"/>
 
 * A scheme of oblivious distributed quantum computing allowing black boxes [Quantum Sci. Tech. 10 045014 (2025)](https://iopscience.iop.org/article/10.1088/2058-9565/adf6d5)
 
