@@ -18,6 +18,10 @@ Include: universal computing models, error correction, topological qubits, quant
 
 Highlights
 ------
+* Quantum hard drive (self-correcting memory) seems possible: [preprint](https://arxiv.org/abs/2606.14034)
+
+<img src="/images/akltmemory.jpg" alt="/images/akltmemory" width="400"/>
+  
 * Quantum transistor: can it be better/replace qubits? [preprint](https://arxiv.org/abs/2602.05166)
 
 <img src="/images/晶体管.jpg" alt="/images/晶体管" width="300"/>
