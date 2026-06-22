@@ -18,6 +18,10 @@ Include: universal computing models, error correction, topological qubits, quant
 
 Highlights
 ------
+* The other `half' of quantum circuits is possible: sequential circuits [preprint](https://arxiv.org/abs/2602.05166)
+
+<img src="/images/时序.png" alt="/images/时序" width="400"/>
+
 * A scheme of oblivious distributed quantum computing allowing black boxes [Quantum Sci. Tech. 10 045014 (2025)](https://iopscience.iop.org/article/10.1088/2058-9565/adf6d5)
 
 <img src="/images/dqc.png" alt="/images/dqc" width="400"/>
