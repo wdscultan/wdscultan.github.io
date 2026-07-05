@@ -18,6 +18,10 @@ Include: universal computing models, error correction, topological qubits, quant
 
 Highlights
 ------
+* Update the family tree of quantum coding protocols: [preprint](https://arxiv.org/abs/2606.25264)
+
+<img src="/images/familytree.png" alt="/images/familytree" width="400"/>
+
 * Quantum hard drive (self-correcting memory) seems possible: [preprint](https://arxiv.org/abs/2606.14034)
 
 <img src="/images/akltmemory.jpg" alt="/images/akltmemory" width="400"/>
