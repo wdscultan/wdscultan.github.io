@@ -18,6 +18,8 @@ Include: universal computing models, error correction, topological qubits, quant
 
 Highlights
 ------
+* LEAD decoder for quantum Tanner LDPC codes: [preprint](https://arxiv.org/abs/2605.17796)
+
 * Update the family tree of quantum coding protocols: [preprint](https://arxiv.org/abs/2606.25264)
 
 <img src="/images/familytree.png" alt="/images/familytree" width="400"/>
@@ -33,6 +35,8 @@ Highlights
 * The other `half' of quantum circuits is possible: sequential circuits [preprint](https://arxiv.org/abs/2602.05166)
 
 <img src="/images/时序.png" alt="/images/时序" width="260"/>
+
+* Minimal fault-tolerant error-correction for quantum Hamming codes: [preprint](https://arxiv.org/abs/2601.10042)
 
 * State-adaptivity can make quantum channel capacity additive: [PRA 113, 012438 (2026)](https://arxiv.org/abs/2508.06011)
 
