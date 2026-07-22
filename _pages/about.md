@@ -38,6 +38,10 @@ Highlights
 
 * Minimal fault-tolerant error-correction for quantum Hamming codes: [preprint](https://arxiv.org/abs/2601.10042)
 
+* Entanglement picture: a new picture in quantum theory is possible [Quantum Rev Lett (2026)](https://www.sciengine.com/QRL/doi/10.1016/j.qrl.2026.05.003)
+
+<img src="/images/EP.png" alt="/images/EP" width="400"/>
+
 * State-adaptivity can make quantum channel capacity additive: [PRA 113, 012438 (2026)](https://arxiv.org/abs/2508.06011)
 
 * A scheme of oblivious distributed quantum computing allowing black boxes [Quantum Sci. Tech. 10 045014 (2025)](https://iopscience.iop.org/article/10.1088/2058-9565/adf6d5)
