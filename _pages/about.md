@@ -40,7 +40,7 @@ Highlights
 
 * Entanglement picture: a new picture in quantum theory is possible [Quantum Rev Lett (2026)](https://www.sciengine.com/QRL/doi/10.1016/j.qrl.2026.05.003)
 
-<img src="/images/EP.png" alt="/images/EP" width="400"/>
+<img src="/images/EP.jpg" alt="/images/EP" width="400"/>
 
 * State-adaptivity can make quantum channel capacity additive: [PRA 113, 012438 (2026)](https://arxiv.org/abs/2508.06011)
 
