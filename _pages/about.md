@@ -28,7 +28,7 @@ Highlights
 
 <img src="/images/akltmemory.jpg" alt="/images/akltmemory" width="400"/>
   
-* Quantum transistor: it works for quantum computing [preprint](https://arxiv.org/abs/2602.05166)
+* Quantum transistor: it works for quantum computing [preprint](https://arxiv.org/abs/2605.21045)
 
 <img src="/images/晶体管.jpg" alt="/images/晶体管" width="300"/>
 
