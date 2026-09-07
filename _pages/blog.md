@@ -5,6 +5,8 @@ permalink: /blog/
 author_profile: true
 ---
 
+------
+
 About the definition of time reversal: do we need a better framework?
 
 [CTP Theorem](http://wdscultan.github.io/files/CTP.pdf)
