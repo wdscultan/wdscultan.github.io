@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "DW Quantum Blog"
 permalink: /blog/
 author_profile: true
 ---
