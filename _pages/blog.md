@@ -1,15 +1,10 @@
 ---
 layout: archive
-title: "DW Quantum Blog"
+title: "DW's Quantum Blog"
 permalink: /blog/
 author_profile: true
 ---
 
-------
-
-About the definition of time reversal: do we need a better framework?
-
-[CTP Theorem](http://wdscultan.github.io/files/CTP.pdf)
    
 ------
 
@@ -18,3 +13,9 @@ Motivated by this, I devised a better algorithm than my previous 10-year old alg
 Now we can decompose channels with quite large dimension, say d=10.
 
 [Channel decomposition](http://wdscultan.github.io/files/Channel_decomp_flag.pdf)
+
+------
+
+About the definition of time reversal: do we need a better framework?
+
+[CTP Theorem](http://wdscultan.github.io/files/CTP.pdf)
