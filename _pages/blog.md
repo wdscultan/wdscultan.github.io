@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: "Blog"
+title: ""
 permalink: /blog/
 author_profile: true
 ---
 
-1. About the definition of time reversal: do we need a better framework?
+About the definition of time reversal: do we need a better framework?
 
 [CTP Theorem](http://wdscultan.github.io/files/CTP.pdf)
    
 ------
 
-2. Based on recent breakthrough by Kumar and Wolf, the 20-year old open problem by Ruskai advanced from d=2 to d=3. 
+Based on recent breakthrough by Kumar and Wolf, the 20-year old open problem by Ruskai advanced from d=2 to d=3. 
 Motivated by this, I devised a better algorithm than my previous 10-year old algorithms.
 Now we can decompose channels with quite large dimension, say d=10.
 
