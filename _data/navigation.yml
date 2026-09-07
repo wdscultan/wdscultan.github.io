@@ -13,6 +13,9 @@ main:
 
   - title: "Files"
     url: /files/
+
+  - title: "Blog"
+    url: /Blog/
     
  # - title: "Arts"
  #   url: /photo/
@@ -20,9 +23,7 @@ main:
  # - title: "Metaphysics"
  #   url: /metaphysics/
     
- # - title: "Guide"
- #   url: /markdown/
- 
+
  
   # - title: "Teaching"
  #   url: /teaching/  
