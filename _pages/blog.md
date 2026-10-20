@@ -5,7 +5,12 @@ permalink: /blog/
 author_profile: true
 ---
 
-   
+------
+
+A wavefunction viewpoint of EB field and gravity field: they are already quantum
+
+[Field](http://wdscultan.github.io/files/field.pdf) 
+
 ------
 
 Based on recent breakthrough by Kumar and Wolf, the 20-year old open problem by Ruskai advanced from d=2 to d=3. 
