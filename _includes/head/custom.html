@@ -36,3 +36,40 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
+
+
+<!-- Umami Cloud: page views and file-link clicks (not completed downloads). -->
+<script defer src="https://cloud.umami.is/script.js" data-website-id="2d26c63f-3884-4003-aca3-9998afc9f30e" data-domains="wdscultan.github.io"></script>
+<script>
+  (function () {
+      if (window.location.hostname !== 'wdscultan.github.io') return;
+      function trackFileClick(event) {
+            if (event.type === 'auxclick' && event.button !== 1) return;
+            var link = event.target.closest && event.target.closest('a[href]');
+            if (!link) return;
+            var url;
+            try { url = new URL(link.href, window.location.href); } catch (error) { return; }
+            if (!/^https?:$/.test(url.protocol)) return;
+            var isFile = /\.(pdf|zip|gz|tar|rar|7z|docx?|xlsx?|pptx?|txt|csv|tex|ipynb|py|json|epub)$/i.test(url.pathname);
+            var isLocalFile = url.hostname === window.location.hostname && /^\/files\/.+[^/]$/.test(url.pathname);
+            if (!isFile && !isLocalFile && !link.hasAttribute('download')) return;
+            if (!window.umami || typeof window.umami.track !== 'function') return;
+            var filename = url.pathname.split('/').pop();
+            try { filename = decodeURIComponent(filename); } catch (error) {}
+            // Omit query strings and fragments to avoid collecting tokens or personal data.
+            try {
+                    var result = window.umami.track('file_click', {
+                              file_name: filename,
+                              file_path: url.pathname,
+                              file_host: url.hostname,
+                              source_page: window.location.pathname
+                    });
+                    if (result && typeof result.catch === 'function') result.catch(function () {});
+            } catch (error) { /* Analytics must never interrupt navigation. */ }
+      }
+      document.addEventListener('click', trackFileClick, true);
+      document.addEventListener('auxclick', trackFileClick, true);
+  })();
+</script>
+
+</script>
