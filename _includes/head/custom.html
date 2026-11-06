@@ -56,7 +56,7 @@
             if (!window.umami || typeof window.umami.track !== 'function') return;
             var filename = url.pathname.split('/').pop();
             try { filename = decodeURIComponent(filename); } catch (error) {}
-            // Omit query strings and fragments to avoid collecting tokens or personal data.
+            /* Omit query strings and fragments to avoid collecting tokens or personal data. */
             try {
                     var result = window.umami.track('file_click', {
                               file_name: filename,
