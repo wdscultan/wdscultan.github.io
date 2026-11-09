@@ -141,6 +141,11 @@ A prototype of quantum von Neumann architecture, [Commun. Theor. Phys. 74:095103
 
 * 2024, Alexander Schuckert and coauthors propose fermion-qubit hybrid model for universal quantum computing, [arXiv:2411.08955](https://arxiv.org/abs/2411.08955)
 
+* 2024, Yutaro Akahoshi and coauthors propose STAR: repeat-until-success for all qubit logical gates, [PRX Quantum 5, 010337](https://doi.org/10.1103/PRXQuantum.5.010337)
+
+* 2026, ionQ: Walking cat architecture for QCCD trapped ion chip, [arXiv:2604.19481](https://arxiv.org/abs/2604.19481)
+
+
   
 
 ALSO SEE [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo), [Algorithm Zoo](https://quantumalgorithmzoo.org/), [Entropy Zoo](https://phfaist.com/entropyzoo), [Codetable](https://www.codetables.de/), [Error Correction Zoo](https://errorcorrectionzoo.org/)
